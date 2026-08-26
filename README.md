@@ -1,1 +1,1 @@
-![Shoes 3D Model](./Resul/Result.png)
+![Shoes 3D Model](Result/Result.png)
